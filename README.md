@@ -1,12 +1,12 @@
 # npm Libraries
-Directory/relationship map of FGO Planner's npm libraries.
-### npm-lib-data (planned)
+Directory/relationship map of FGO Planner's custom npm packages. All of the packages below use the `@fgo-planner` scope.
+### npm-lib-data ([repo](https://github.com/fgo-planner/npm-lib-data))
 * **data-types**
   * no imports
   * exports types only
-* **data-ops**
+* **data-mongo**
   * imports `data-types`
-  * exports db models/schemas
+  * exports Mongo (Mongoose) models and schemas
 ### npm-lib-common (planned)
 * **common-utils**
   * TBD
