@@ -17,6 +17,7 @@ Directory/relationship map of FGO Planner's custom npm packages. All of the pack
   - Dependencies:
     - `common-core`
     - `data-types`
+    - `data-test-resources` (dev)
   - Re-exports:
     - `data-types`
 - **data-mongo ([package](https://github.com/fgo-planner/npm-lib-data/pkgs/npm/data-mongo))**
@@ -34,11 +35,12 @@ Directory/relationship map of FGO Planner's custom npm packages. All of the pack
   - No depndencies
 
 ### npm-lib-transform ([repo](https://github.com/fgo-planner/npm-lib-transform), [packages](https://github.com/orgs/fgo-planner/packages?repo_name=npm-lib-transform))
-- **transform-core (TBD)**
+- **transform-core ([package](https://github.com/fgo-planner/npm-lib-transform/pkgs/npm/transform-core))**
   - Dependencies:
     - `common-core`
     - `data-core`
     - `date-fns` (external)
+    - `data-test-resources` (dev)
 
 ### npm-lib-computation (TBD)
 - **computation-core (TBD)**
