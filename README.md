@@ -2,7 +2,7 @@
 Directory/relationship map of FGO Planner's custom npm packages. All of the packages and dependencies listed below use the `@fgo-planner` scope, unless marked as external.
 
 ### npm-lib-common ([repo](https://github.com/fgo-planner/npm-lib-common), [packages](https://github.com/orgs/fgo-planner/packages?repo_name=npm-lib-common))
-- **common-core ([package](https://github.com/fgo-planner/npm-lib-common/pkgs/npm/common-utils))**
+- **common-core ([package](https://github.com/fgo-planner/npm-lib-common/pkgs/npm/common-core))**
   - Dependencies:
     - `common-types`
     - `csv-parse` (external)
